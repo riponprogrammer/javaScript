@@ -59,3 +59,6 @@ console.log(arr11)
 
 let arr12 = arr.join(" - ");
 console.log(arr12);
+
+let arr13 = arr.slice(2, 5);
+console.log(arr13);
